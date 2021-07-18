@@ -1,1 +1,5 @@
 # zsh
+
+```
+brew install zplug
+```
